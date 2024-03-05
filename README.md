@@ -1,7 +1,10 @@
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/18OWAIS/pngg/main/banner.gif">
+<div align="center">
+  <img alt="Coding" width="100%" src="https://raw.githubusercontent.com/18OWAIS/pngg/main/banner.gif">
+</div>
+
 <h1 align="center">Hi 👋, I'm MOHD OWAIS ANSARI</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif">
+<img align="right" alt="Coding" width="400" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=18owais&label=Profile%20views&color=0e75b6&style=flat" alt="18owais" /> </p>
 
